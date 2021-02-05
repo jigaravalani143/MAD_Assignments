@@ -1,0 +1,67 @@
+9 hours ago
+Your action plan for next 3 months as a web developer
+
+👉 Save for future
+👉 Like and share for better reach
+👉 Comment what all technologies are you going to learn
+
+📌 Month 1 - October - 𝗥𝗲𝗮𝗰𝘁 + 𝗥𝗲𝗱𝘂𝘅
+
+👉 Insane amount of opportunities for React Developers
+👉 Huge developer community
+👉 Easy to learn
+
+📌 Month 2 - November - 𝗚𝗿𝗮𝗽𝗵𝗤𝗟
+
+👉 Gaining popularity super fast
+👉 Many opportunities
+
+📌 Month 3 - December - 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽𝘀 𝗮𝗻𝗱 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲
+
+👉 Learn basics of PWAs like,
+💥 how to convert your website into PWA
+💥 Service workers and caching
+💥 Web Push Notifications
+💥 Native Device Features
+👉 I bet, even after learning all this, you will still have time remaining, try to learn app dev using React Native in that time
+👉 Since you are already familiar with React, RN would be easy to grasp.
+
+💥 Links to resources in comments 💥
+
+"But Madhav, I am not getting time to learn, what should I do?"
+
+Follow my 𝟮𝟬:𝟭𝟬 𝗯𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻
+
+👉 Fix (undisturbed) 45 mins in your calendar daily
+👉 Pick up a course
+👉 Complete that course within first 20 days
+👉 Implement what you learnt by making a side project for next 10 days
+
+Spending 45 mins each day, for 30 days, is better than spending 20 hours in one day.
+
+
+
+
+
+
+
+Resources for above topics 
+
+👉 React + Redux
+
+- (Paid) Complete React Developer Course - https://www.udemy.com/course/react-2nd-edition/
+- Codevolution Playlist - https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+- Redux - https://www.youtube.com/watch?v=poQXNp9ItL4
+
+👉 GraphQL
+
+- (Paid) GraphQL bootcamp - https://www.udemy.com/course/graphql-bootcamp/
+- Free YouTube course - https://www.youtube.com/watch?v=ed8SzALpx1Q
+
+👉 PWA
+
+- Net Ninjas playlist - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7
+
+👉 React Native
+
+- Codedamn playlist - https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h
