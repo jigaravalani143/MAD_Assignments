@@ -1,0 +1,44 @@
+
+git init
+git add Readme.md
+git commit -m "first commit"
+git remote add origin https://.....
+git remote set-url origin https://.....
+git push -u origin master
+
+
+
+changes
+
+git status
+git add .
+git commit -m "changes"
+git pull origin master
+git push origin master
+
+
+push not working with 1st method use
+touch initial
+git add initial
+git commit -m "initial commit"
+git push -u origin master
+git status
+git add .
+git commit -m "changes"
+git pull origin master
+git push origin master
+
+
+new method
+git init
+git add Readme.md
+touch initial
+git add initial
+git remote add origin https://.....
+git commit -m "initial commit"
+git push -u origin master
+git status
+git add .
+git commit -m "changes"
+git pull origin master
+git push origin master

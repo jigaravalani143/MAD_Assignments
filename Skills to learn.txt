@@ -1,0 +1,7 @@
+Java core and Spring Boot
+Angular
+React
+Kafka
+Github
+
+ALgorithm and CP
